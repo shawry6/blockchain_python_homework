@@ -1,0 +1,34 @@
+blockchain_python_homework
+
+mnemonic
+better mystery shallow snack elbow whale abuse heart body obey silk asset
+
+private_key: xprv9xm2MGsqHjHTAVEfXp4HfGTYY7PdUREgfoR5NCrFUwCVU5ebKggtmZzK8FduBoCTiEetvFNXQMFyuuiwnpkV72peAzkjEyqxAn3U9udWSPa
+public_key: xpub6BkNknQj86qkNyK8dqbJ2QQH69E7ssxY32LgAbFs3GjULsyjsE19KNJnyWT68Dwap5EaLjA23Q1ZjCN6k1rk2HPxD9eEA9pRAFHxfJUD59S
+
+Derived Addresses:
+1HXE3uQTnEZUmmLtF3DwA8etvDMasTtTWf
+Private_Key: L5UYexkSVa9vroE2usKfzosuzJQdtqefFDcfdZkapdL1SoUKMYxU
+Public_Key: 02a3f7407825d6cae3f360a1c29b79fb3651b8acc3d7be7855cbf9fb022322ad32
+
+-----------------
+BIP44 BTC Testnet
+-----------------
+private_key: tprv8fmX8HXPk3nffjivWq12zKbGZqcP6mnzNL3s7gZLvQmc6pJuKWh1FauYRvJsKXgPJLSsZoSrcLmvWWEX9LT4Ux7Fy8sipoBKx8Za2kcfs32
+public_key: tpubDCTZGhZdtRULZCkiQUfdPjFP8s8KG6ytwdeeQCbeLgZzwJZfwuWbS5XQc54c5L5kLtqZEVLKbe4VwNTpfDMwsWbqu9ekdHbdt7bFmHaQtae
+
+Derived Addresses:
+mjpctU3pUt7zGGRTc8XY4ZXEU8xEGjNMSk
+Private_Key: cMqo5ku7h4XUWgLqEyje9hRAQ2H5LBA2bxVGnPM25CTxYUx43XXH
+Public_Key: 0331887a38ac101718539349b9556fedc3e241a65b9667d622a0e1269ee16e7d6d
+
+-----------------
+BIP44 ETH
+-----------------
+private_key: xprv9yGfKxh6zY63h5439JZ2463FsSYkp4j5jJkpweN5dRSibGDqAQRjssKkMmoDUUsVvSx1vExW6UQZx7M2ky2HSmh6iUaxwFEKBNN6F4WoBy5
+public_key: xpub6CG1jUDzpueLuZ8WFL62RDyzRUPFDXSw6XgRk2mhBkyhU4YyhwjzRfeED25xEWMMvRa3ADF42CRR19VwQufugKpTnFjUs6MnvGTbswVhn
+
+Derived Addresses:
+0x4F2489075E877429Cd0b8Aa44aE9E83309d8c1D8
+Private_Key: 0xcb6e419dc87313939d08dccbdb0bffb10234dae025f66a992355d28cc8478dfe
+Public_Key: 0x037593522e694866b4e7e88204684aad52590cf0812802cea0e0598fdf7a396656
